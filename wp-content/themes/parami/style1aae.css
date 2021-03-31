@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, p, body, a, strong, li {
 }
 
 #masthead {
-    background: rgba(0,107,115,0.84)!important;
+    background: rgb(77 77 77 / 84%)!important;
 }
 
 #masthead a {
